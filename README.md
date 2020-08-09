@@ -51,3 +51,4 @@ design patterns practice in golang | golang实现设计模式
 ## 创建型模式
 
 * [工厂模式 Factory Pattern](./1_factory/README.md)
+* [抽象工厂模式 Abstract Factory Pattern](./2_abstract_factory/README.md)
