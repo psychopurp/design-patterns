@@ -54,3 +54,4 @@ design patterns practice in golang | golang实现设计模式
 * [抽象工厂模式 Abstract Factory Pattern](./2_abstract_factory/README.md)
 * [单例模式 Singleton Pattern](3_singleton/README.md)
 * [建造者模式 Builder Pattern](4_builder/README.md)
+* [生成器模式 Generator Pattern](generator/generator.go)
