@@ -55,3 +55,8 @@ design patterns practice in golang | golang实现设计模式
 * [单例模式 Singleton Pattern](3_singleton/README.md)
 * [建造者模式 Builder Pattern](4_builder/README.md)
 * [生成器模式 Generator Pattern](generator/generator.go)
+
+
+## 行为型模式
+
+* [观察者模式 Observer Pattern](5_observer/README.md)
