@@ -4,30 +4,30 @@ implementing Design Patterns in golang.
 
 source: [design patterns](https://refactoring.guru/design-patterns)
 
-|  **Catalog**   |                   **Design Patterns（Github）**                    |
-| :------------: | :----------------------------------------------------------------: |
+|  **Catalog**   |             **Design Patterns（Github）**              |
+| :------------: | :----------------------------------------------------: |
 | **Creational** |        [Factory Method (工厂模式)](01_factory)         |
 |                | [Abstract Factory (抽象工厂模式)](02_abstract_factory) |
 |                |           [Builder (建造者模式)](03_builder)           |
 |                |          [Prototype (原型模式)](04_prototype)          |
-|                |                      [Singleton (单例模式)](05_singleton)                      |
-| **Structural** |                      [Adapter (适配器模式)]()                      |
-|                |                       [Bridge (桥接模式)]()                        |
-|                |                      [Composite (组合模式)]()                      |
-|                |                     [Decorator (装饰器模式)]()                     |
-|                |                       [Facade (门面模式)]()                        |
-|                |                      [Flyweight (享元模式)]()                      |
-|                |                        [Proxy (代理模式)]()                        |
-| **Behavioral** |              [Chain of Responsibility (职责链模式)]()              |
-|                |                       [Command (命令模式)]()                       |
-|                |                     [Iterator (迭代器模式)]()                      |
-|                |                      [Mediator (中介模式)]()                       |
-|                |                      [Memento (备忘录模式)]()                      |
-|                |                     [Observer (观察者模式)]()                      |
-|                |                        [State (状态模式)]()                        |
-|                |                      [Strategy (策略模式)]()                       |
-|                |                   [Template Method (模板模式)]()                   |
-|                |                      [Visitor (访问者模式)]()                      |
+|                |          [Singleton (单例模式)](05_singleton)          |
+| **Structural** |           [Adapter (适配器模式)](06_adapter)           |
+|                |                 [Bridge (桥接模式)]()                  |
+|                |                [Composite (组合模式)]()                |
+|                |               [Decorator (装饰器模式)]()               |
+|                |                 [Facade (门面模式)]()                  |
+|                |                [Flyweight (享元模式)]()                |
+|                |                  [Proxy (代理模式)]()                  |
+| **Behavioral** |        [Chain of Responsibility (职责链模式)]()        |
+|                |                 [Command (命令模式)]()                 |
+|                |               [Iterator (迭代器模式)]()                |
+|                |                [Mediator (中介模式)]()                 |
+|                |                [Memento (备忘录模式)]()                |
+|                |               [Observer (观察者模式)]()                |
+|                |                  [State (状态模式)]()                  |
+|                |                [Strategy (策略模式)]()                 |
+|                |             [Template Method (模板模式)]()             |
+|                |                [Visitor (访问者模式)]()                |
 
 ## Six principles of design pattern
 
