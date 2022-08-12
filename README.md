@@ -8,7 +8,7 @@ source: [design patterns](https://refactoring.guru/design-patterns)
 | :------------: | :--------------------------------------: |
 | **Creational** |      [Factory Method (工厂模式)]()       |
 |                |   [Abstract Factory (抽象工厂模式)]()    |
-|                |         [Builde (建造者模式)]()          |
+|                |         [Builder (建造者模式)]()         |
 |                |         [Prototype (原型模式)]()         |
 |                |         [Singleton (单例模式)]()         |
 | **Structural** |         [Adapter (适配器模式)]()         |

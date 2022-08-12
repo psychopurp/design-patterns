@@ -1,4 +1,4 @@
-package factory
+package abstractfactory
 
 import (
 	"fmt"
@@ -6,7 +6,7 @@ import (
 	"testing"
 )
 
-func TestAbstractFactory(t *testing.T) {
+func TestSetupConstrcutors(t *testing.T) {
 	env1 := "production"
 	env2 := "development"
 
@@ -34,5 +34,4 @@ func TestAbstractFactory(t *testing.T) {
 	fmt.Println(reflect.TypeOf(&fs1).Elem())
 	fmt.Println(reflect.TypeOf(fs2).Name())
 	fmt.Println(reflect.TypeOf(&fs2).Elem())
-
 }
