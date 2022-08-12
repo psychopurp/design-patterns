@@ -6,10 +6,10 @@ source: [design patterns](https://refactoring.guru/design-patterns)
 
 |  **Catalog**   |                   **Design Patterns（Github）**                    |
 | :------------: | :----------------------------------------------------------------: |
-| **Creational** |        [Factory Method (工厂模式)](./01_factory/README.md)         |
-|                | [Abstract Factory (抽象工厂模式)](./02_abstract_factory/README.md) |
-|                |           [Builder (建造者模式)](./03_builder/README.md)           |
-|                |          [Prototype (原型模式)](./04_prototype/README.md)          |
+| **Creational** |        [Factory Method (工厂模式)](01_factory/README.md)         |
+|                | [Abstract Factory (抽象工厂模式)](02_abstract_factory/README.md) |
+|                |           [Builder (建造者模式)](03_builder/README.md)           |
+|                |          [Prototype (原型模式)](04_prototype/README.md)          |
 |                |                      [Singleton (单例模式)]()                      |
 | **Structural** |                      [Adapter (适配器模式)]()                      |
 |                |                       [Bridge (桥接模式)]()                        |
