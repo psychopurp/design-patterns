@@ -12,7 +12,7 @@ source: [design patterns](https://refactoring.guru/design-patterns)
 |                |          [Prototype (原型模式)](04_prototype)          |
 |                |          [Singleton (单例模式)](05_singleton)          |
 | **Structural** |           [Adapter (适配器模式)](06_adapter)           |
-|                |                 [Bridge (桥接模式)]()                  |
+|                |             [Bridge (桥接模式)](07_bridge)             |
 |                |                [Composite (组合模式)]()                |
 |                |               [Decorator (装饰器模式)]()               |
 |                |                 [Facade (门面模式)]()                  |
