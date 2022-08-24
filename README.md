@@ -4,7 +4,7 @@ implementing Design Patterns in golang.
 
 source: [design patterns](https://refactoring.guru/design-patterns)
 
-|  **Catalog**   |             **Design Patterns（Github）**              |
+|  **Category**   |             **Design Patterns（Github）**              |
 | :------------: | :----------------------------------------------------: |
 | **Creational** |        [Factory Method (工厂模式)](01_factory)         |
 |                | [Abstract Factory (抽象工厂模式)](02_abstract_factory) |
